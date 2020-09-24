@@ -15,7 +15,7 @@ Open the command line and browse to the directory where you have downloaded/clon
 Download chromedriver for your OS that matches your version of Google Chrome browser and replace it with the existing one
 
 ## 4. Run
-Double-click on iplonhotstar.py to run the file
+Double-click on `iplonhotstar.py` to run the file
 
 ## Notes:
 * Make sure the match has started before you start the script
