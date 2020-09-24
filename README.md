@@ -14,7 +14,9 @@ Open the command line and browse to the directory where you have downloaded/clon
 ## 3. Download chromedriver
 Download chromedriver for your OS that matches your version of Google Chrome browser and replace it with the existing one
 
-## 4. Double-click on iplonhotstar.py to run the file
+## 4. Run
+Double-click on iplonhotstar.py to run the file
+
 ## Notes:
 * Make sure the match has started before you start the script
 * Make sure you replace "username" in iplonhotstar.py with your gmail id. Also make sure not to remove nothing except the string "username"
